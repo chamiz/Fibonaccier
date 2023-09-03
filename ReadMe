@@ -8,5 +8,6 @@ using the following recursive formula:
    Fib(n) = Fib(n-1) + Fib(n-2)
 Wait until both of the asynchronous calls finish.
 
-Print out the resulting Fibonacci number Fib(n), and which one of
-the two calls finished out first.
+Print out the resulting Fibonacci number Fib(n), and which one of the two calls finished out first.
+
+FibonacciAsync.py contains the main method for the execution
